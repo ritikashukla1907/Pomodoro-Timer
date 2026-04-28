@@ -20,4 +20,4 @@ The most difficult part was getting the circle arc to work correctly. I understo
 
 ##Video 
 https://www.loom.com/share/a04cf82a2a6a49d7a0e6e9db0e97cadc
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/a04cf82a2a6a49d7a0e6e9db0e97cadc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/a04cf82a2a6a49d7a0e6e9db0e97cadc" frameborder="0" 
